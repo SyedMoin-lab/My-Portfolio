@@ -1,4 +1,4 @@
-# My-Portfolio-V-3.0
+# My-Portfolio
 
 Welcome to the third version of my portfolio! This portfolio is built using HTML, CSS, and JS, showcasing my skills and projects in a clean and organized manner.
 
@@ -29,9 +29,22 @@ Welcome to the third version of my portfolio! This portfolio is built using HTML
 
 ## Screenshots
 
-![2048 Game Screenshot 1](2048-1.png)
-![Projects Section](/images/projects.png)
-<!-- Add more screenshots as needed -->
+![Menu](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/ee396f64-1f42-47be-8415-34914b9c111f)
+
+![About Me](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/4effdeb4-985f-4032-a81d-6d16df328955)
+
+![Home](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/c23ebfaa-aca1-438c-ac70-3364d605ca89)
+
+![Projects](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/ee819786-a2b2-497d-b773-312fbbab5d2c)
+
+![Services](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/3ef1a204-a551-4543-a56c-139b3010fcfe)
+
+![Contact](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/d76f5185-981c-4ef0-ab09-10d99632ebeb)
+
+![Experience](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/c0d06bdf-03c8-46d8-8ad9-b32f6c510184)
+
+![Footer](https://github.com/SyedMoin-lab/My-Portfolio/assets/63508680/9c536df4-65a4-402d-80f3-26140299f23d)
+
 
 ## Getting Started
 
