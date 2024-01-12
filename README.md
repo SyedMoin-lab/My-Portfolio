@@ -14,9 +14,9 @@ Welcome to the third version of My Portfolio! This project showcases my skills a
 5. **Software**: Information about the software and tools I work with.
 6. **Contact**: Find ways to get in touch with me.
 
-## Project Images
+## Iphone Mockup Images
 
-![Project 1](path/to/project/image1.jpg)
+![IphoneMockupImages](AboutMe.png)
 ![Project 2](path/to/project/image2.jpg)
 ![Project 3](path/to/project/image3.jpg)
 ![Project 4](path/to/project/image4.jpg)
