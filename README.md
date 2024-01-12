@@ -27,9 +27,9 @@ Welcome to the third version of my portfolio! This portfolio is built using HTML
 5. **Software:** Get insights into the technologies and tools I use.
 6. **Contact:** Reach out to me through various channels.
 
-## Screenshots/Mockups
+## Screenshots
 
-![IphoneMockup](/IphoneMockup/Home.jpg)
+![2048 Game Screenshot 1](2048-1.png)
 ![Projects Section](/images/projects.png)
 <!-- Add more screenshots as needed -->
 
